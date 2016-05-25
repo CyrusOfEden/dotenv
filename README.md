@@ -53,3 +53,11 @@ current-env` is a string resolved through the `LEIN_ENV` or `BOOT_ENV` environme
 
 The `:current-env` key houses the current environment. Also, `:(current-env)?` (e.g. `:test?`) is set to `true` for the current environment.
 
+## Why this? Why not environ?
+
+This was born out of frustration with not understanding how [environ](https://github.com/weavejester/environ), another environment management system, worked. That, and its interop with Leiningen had a certain bug I can't seem to remember.
+
+## Is it any good?
+
+Yes.
+
