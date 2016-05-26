@@ -1,4 +1,4 @@
-# dotenv
+# dotenv [![Clojars Project](https://img.shields.io/clojars/v/com.knrz/dotenv.svg)](https://clojars.org/com.knrz/dotenv)
 
 A souped-upped version of what you've come to expect in a `.env` file loader, as per the [12-factor app methodology for configs](http://12factor.net/config). What's different? `dotenv` expects the env files to be in the amazing [EDN format](https://github.com/edn-format/edn) for Clojure apps. Long story short: You've got a Clojure map as your config.
 
