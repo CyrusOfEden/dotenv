@@ -61,3 +61,7 @@ This was born out of frustration with not understanding how [environ](https://gi
 
 Yes.
 
+## License
+
+The standard MIT License, y'all.
+
