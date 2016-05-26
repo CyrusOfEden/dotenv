@@ -5,6 +5,5 @@
   :license {:name "MIT"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :global-vars {*warn-on-relfection* true}
-  :deploy-repositories [["releases" :clojars]]
   :dependencies [[org.clojure/clojure "1.8.0"]])
 
