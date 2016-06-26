@@ -4,6 +4,6 @@
   :url "https://github.com/knrz/dotenv"
   :license {:name "MIT"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :global-vars {*warn-on-relfection* true}
+  :global-vars {*warn-on-reflection* true}
   :dependencies [[org.clojure/clojure "1.8.0"]])
 
