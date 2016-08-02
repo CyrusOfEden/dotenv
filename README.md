@@ -9,7 +9,7 @@ Store your configuration in an env file, and keep it checked out of source contr
 Include the following dependency in your `project.clj` file:
 
 ```clojure
-:dependencies [[com.knrz/dotenv "1.0.0"]]
+:dependencies [[com.knrz/dotenv "0.1.0"]]
 ```
 
 ## Usage
