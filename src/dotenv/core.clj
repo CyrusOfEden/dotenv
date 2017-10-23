@@ -35,7 +35,7 @@
       "development"))
 
 (defn load-env []
-  (let [srcs [(System/getenv) (Systme/getProperties)]]
+  (let [srcs [(System/getenv) (System/getProperties)]]
     (into {} (map read-env-map) srcs)))
 
 (defn load-config []
